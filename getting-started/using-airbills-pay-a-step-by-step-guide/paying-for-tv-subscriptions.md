@@ -1,6 +1,6 @@
 # Paying for TV Subscriptions
 
-<figure><img src="../../.gitbook/assets/gotv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tv Airbills.png" alt=""><figcaption></figcaption></figure>
 
 ### **Access the Platform:**
 
@@ -16,7 +16,7 @@
 
 * Choose your subscription package from the list.
 * Enter your phone number for confirmation.
-* Pay with **USDC** or **USDT** (**bNGN** is in development).
+* Pay with **USDC** or **USDT.**
 
 ### **Confirm and Complete:**
 

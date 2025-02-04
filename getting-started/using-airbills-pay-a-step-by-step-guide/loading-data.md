@@ -1,6 +1,6 @@
 # Loading Data
 
-<figure><img src="../../.gitbook/assets/data.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airbills Data.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. **Access the Platform:**
 

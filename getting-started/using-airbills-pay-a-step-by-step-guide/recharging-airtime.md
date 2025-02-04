@@ -1,6 +1,6 @@
 # Recharging Airtime
 
-<figure><img src="../../.gitbook/assets/Airtime.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/airbills airtime.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. **Access the Platform:**
 

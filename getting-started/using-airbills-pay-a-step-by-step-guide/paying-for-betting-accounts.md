@@ -1,6 +1,6 @@
 # Paying for Betting Accounts
 
-<figure><img src="../../.gitbook/assets/bet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Airbills bet.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. **Access the Platform:**
 
